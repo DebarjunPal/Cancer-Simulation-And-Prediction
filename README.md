@@ -61,6 +61,7 @@
 
 ## 📂 Project Structure
 
+---
 ```
 Cancer-Simulation-And-Prediction/
 ├── app/
@@ -69,10 +70,10 @@ Cancer-Simulation-And-Prediction/
 │   └── main.py         # Model training and evaluation
 ├── data/
 │   └── data.csv        # Dataset (ensure this path is correct)
+├── requirements.txt    # Python dependencies
 ├── README.md
 ├── LICENSE
 ```
-
 ---
 
 ## 📊 Key Model Features
