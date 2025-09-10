@@ -175,9 +175,6 @@ def main():
         initial_sidebar_state="expanded"
     )
 
-
-
-
     input_data = add_sidebar()
 
     with st.container():
